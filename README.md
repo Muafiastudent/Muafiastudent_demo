@@ -1,4 +1,4 @@
-# Muafiastudent_demo
-This is my first git repository
+zahid_techno
+This is my second  git repository
 <br>
-Author_Muafia Tabassum
+Author Zahidtechno
